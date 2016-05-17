@@ -31,3 +31,15 @@ a li:hover{
 	width: 200px;
 	height: 200px;
 }
+
+.cover{
+	width: 200px;
+	height: 200px;
+	margin: 50px;
+}
+.TrackLyrics{
+	display: none;
+}
+/*.thumbnail{
+	border: none;
+}*/
